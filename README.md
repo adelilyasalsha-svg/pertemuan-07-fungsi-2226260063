@@ -1,6 +1,6 @@
 **Nama:** Adelilya Salsha  
 **NIM:** 2225250063  
-**Kelas:** [isi kelas]
+**Kelas:** 3B
 
 ## Tujuan
 
